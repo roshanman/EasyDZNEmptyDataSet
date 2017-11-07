@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/EasyDZNEmptyDataSet.svg?style=flat)](http://cocoapods.org/pods/EasyDZNEmptyDataSet)
 [![Platform](https://img.shields.io/cocoapods/p/EasyDZNEmptyDataSet.svg?style=flat)](http://cocoapods.org/pods/EasyDZNEmptyDataSet)
 
+对DZNEmptyDataSet的简单封装，使用更加快捷方便。
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +24,7 @@ pod 'EasyDZNEmptyDataSet'
 
 ## Author
 
-morenotepad@163.com, morenotepad@163.com
+morenotepad@163.com
 
 ## License
 

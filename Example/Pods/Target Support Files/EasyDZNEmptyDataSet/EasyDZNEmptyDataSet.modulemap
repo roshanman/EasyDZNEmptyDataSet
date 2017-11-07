@@ -1,0 +1,6 @@
+framework module EasyDZNEmptyDataSet {
+  umbrella header "EasyDZNEmptyDataSet-umbrella.h"
+
+  export *
+  module * { export * }
+}

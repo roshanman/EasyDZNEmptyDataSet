@@ -1,0 +1,6 @@
+framework module Pods_EasyDZNEmptyDataSet_Example {
+  umbrella header "Pods-EasyDZNEmptyDataSet_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/DZNEmptyDataSet/Source/UIScrollView+EmptyDataSet.m"
+            timestampString = "531728783.27657"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "-dzn_image"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIScrollView(DZNEmptyDataSet) dzn_image]"
+                  moduleName = "DZNEmptyDataSet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ebt/work/EasyDZNEmptyDataSet/Example/Pods/DZNEmptyDataSet/Source/UIScrollView+EmptyDataSet.m"
+                  timestampString = "531728304.721691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIScrollView(DZNEmptyDataSet) dzn_image]"
+                  moduleName = "DZNEmptyDataSet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ebt/work/EasyDZNEmptyDataSet/Example/Pods/DZNEmptyDataSet/Source/UIScrollView+EmptyDataSet.m"
+                  timestampString = "531728304.724389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasyDZNEmptyDataSet/ViewController.swift"
+            timestampString = "531731701.802896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "emptyDataSet(_:didTap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,22 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - EasyDZNEmptyDataSet (0.1.0):
+    - DZNEmptyDataSet
+    - Extra2
+  - Extra2 (0.1.0)
+
+DEPENDENCIES:
+  - EasyDZNEmptyDataSet (from `../`)
+
+EXTERNAL SOURCES:
+  EasyDZNEmptyDataSet:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EasyDZNEmptyDataSet: 52918abc2abb7c55b447c7f30f4161342c9a6761
+  Extra2: 43f68cf2262a0f04fc02ab3efe639a5115320da8
+
+PODFILE CHECKSUM: 1342f2b64c954440928b29992d1245173e4b1c70
+
+COCOAPODS: 1.3.1
